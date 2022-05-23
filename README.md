@@ -1,2 +1,2 @@
 # OpenMRS-Myfirst-Module
-This is my first module with openmrs
+This is my first module 
